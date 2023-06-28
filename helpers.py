@@ -1,9 +1,12 @@
 from datetime import date
+from constants import MONTHS
+
 
 def get_date(MONTHS):
     dateNum = date.today().strftime("%m")
     year = date.today().strftime("%y")
-    return f"{MONTHS.get(dateNum)} {year}"
+    print(dateNum)
+    return f"{MONTHS.get(str(int(dateNum)))} {year}"
 
 def get_track_ids(sp, time_frame):
     track_ids = []
@@ -25,6 +28,7 @@ def get_track_features(sp, id):
 
 def create_playlist(sp, MONTHS):
     date = get_date(MONTHS)
+    print(date)
     playlist_name = f"Songs of {date}"    
     sp.user_playlist_create("saulharwin", playlist_name, public=True, collaborative=False, description='')
     print(f"Successfully created playlist ({playlist_name})")
