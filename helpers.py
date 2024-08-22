@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, datetime
 from constants import MONTHS
 
 
@@ -29,8 +29,19 @@ def get_track_features(sp, id):
 def create_playlist(sp, MONTHS):
     date = get_date(MONTHS)
     print(date)
-    playlist_name = f"Songs of {date}"    
-    sp.user_playlist_create("saulharwin", playlist_name, public=True, collaborative=False, description='')
+    playlist_name = f"Songs of {date}"
+
+    playlists = sp.user_playlists("saulharwin")
+
+    for playlist in playlists["items"]:
+        if playlist["name"] == playlist_name:
+            sp.playlist_change_details(playlist_id=playlist["id"], description=f"This is my playlist of top songs this month automatically populated by my Rpi. Last Updated: {datetime.now().day}/{datetime.now().month}/{datetime.now().year} at {datetime.now().hour}:{datetime.now().minute}:{datetime.now().second}")
+            print("Playlist with the same name already exist. Skipping playlist creation.")
+            return playlist_name
+        else:
+            continue
+
+    sp.user_playlist_create("saulharwin", playlist_name, public=True, collaborative=False, description=f"This is my playlist of top songs this month automatically populated by my Rpi. Last Updated: {datetime.now().day}/{datetime.now().month}/{datetime.now().year} at {datetime.now().hour}:{datetime.now().minute}:{datetime.now().second}")
     print(f"Successfully created playlist ({playlist_name})")
     return playlist_name
 
@@ -38,7 +49,11 @@ def add_songs_to_playlist(sp, trackIDs, playlist_name):
     playlists = sp.user_playlists("saulharwin")
     for playlist in playlists['items']:
         if playlist['name'] == playlist_name:
-            sp.playlist_add_items(playlist["id"], trackIDs, position=None)
+            items = sp.playlist_items(playlist["id"])
+            if items["total"] == 0:
+                sp.playlist_add_items(playlist["id"], trackIDs, position=None)
+            else:
+                sp.playlist_replace_items(playlist["id"], trackIDs) 
             break
         else:
             print("ERROR: Playlist hasn't been created yet.")

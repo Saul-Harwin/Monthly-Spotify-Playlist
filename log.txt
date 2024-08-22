@@ -30,3 +30,44 @@ Songs:
 ['Amos Moses', 'Georgia Sunshine', 'Jerry Reed', 'https://open.spotify.com/track/7zVZF0OgDJkFJohnlKwEpa', 'https://i.scdn.co/image/ab67616d0000b2732f06de0d10c2083f442ac8c7']
 ['School', 'Bleach', 'Nirvana', 'https://open.spotify.com/track/0EY1Z9UmZnYZyM7zHs6C0j', 'https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864']
 ['Sound Of The Underground', 'Sound Of The Underground', 'Girls Aloud', 'https://open.spotify.com/track/0SKjqIViHaXWhmaKuJbMrq', 'https://i.scdn.co/image/ab67616d0000b273eea0874a385add93be75febf']
+
+
+2024-08-22 22:00:02.477528
+08
+August 24
+href
+limit
+next
+offset
+previous
+total
+items
+Successfully created playlist (Songs of August 24)
+Successfully got track IDs
+Successfully added songs to playlist
+Songs:
+['Big City Life', 'Big City Life', 'Luude', 'https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN', 'https://i.scdn.co/image/ab67616d0000b273cba8091b7b9bddf2b42afa4b']
+['MONEY ON THE DASH - SPED UP', 'MONEY ON THE DASH', 'Elley Duhé', 'https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN', 'https://i.scdn.co/image/ab67616d0000b273d59c1c2e1e987d716bcca688']
+['Wasted Youth', 'Wasted Youth', 'goddard.', 'https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm', 'https://i.scdn.co/image/ab67616d0000b273a829bb521bc5f7f1e4d0f362']
+['Edge of Seventeen', 'Edge of Seventeen', 'Wuki', 'https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB', 'https://i.scdn.co/image/ab67616d0000b2734c9a558e3cbfa4f3ae93a685']
+['Big Jet Plane', 'Big Jet Plane', 'Restricted', 'https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O', 'https://i.scdn.co/image/ab67616d0000b27305da2b226cda948badddbf2e']
+['Thank You (Not So Bad)', 'Thank You (Not So Bad)', 'Dimitri Vegas & Like Mike', 'https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt', 'https://i.scdn.co/image/ab67616d0000b2730aa08f8923434aab06e43b37']
+['About A Girl', 'Bleach', 'Nirvana', 'https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok', 'https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864']
+['Stolen Dance', 'Sadnecessary', 'Milky Chance', 'https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO', 'https://i.scdn.co/image/ab67616d0000b2732001bc1b4dd82d06631fcb9e']
+["Lovers In A Past Life (with Rag'n'Bone Man)", "Lovers In A Past Life (with Rag'n'Bone Man)", 'Calvin Harris', 'https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn', 'https://i.scdn.co/image/ab67616d0000b273bb08484f74ca64acd08882a1']
+['Somebody (2024)', 'Somebody (2024)', 'Gotye', 'https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO', 'https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2']
+['Glycerine - Remastered', 'Sixteen Stone (Remastered)', 'Bush', 'https://open.spotify.com/track/5buITai6eMzU8rJonMEI6e', 'https://i.scdn.co/image/ab67616d0000b2731581237e4d580feafaed6bc0']
+['See You In June', 'See You In June', 'FooR', 'https://open.spotify.com/track/0n0VZE8xb0XIm0nwYApn65', 'https://i.scdn.co/image/ab67616d0000b273d809ce3eb0ff3b33d551e104']
+['Static', 'Gemini Rights', 'Steve Lacy', 'https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem', 'https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee']
+['Down Under (feat. Colin Hay)', 'Down Under (feat. Colin Hay)', 'Luude', 'https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG', 'https://i.scdn.co/image/ab67616d0000b273ba09259a8938e1e1c4d47fed']
+['Prada', 'Prada', 'cassö', 'https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i', 'https://i.scdn.co/image/ab67616d0000b273e4b7dccdfd54375ded9ccc5c']
+['Liquor & Cigarettes (feat. ArrDee)', '2 RUFF, Vol. 1', 'Chase & Status', 'https://open.spotify.com/track/5etN0BsaiQlp0D6ltU4BX7', 'https://i.scdn.co/image/ab67616d0000b2738a7fdf2de701f3ea4cfacfc1']
+['Vibration (feat. AR/CO)', 'Evolve', 'Sub Focus', 'https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh', 'https://i.scdn.co/image/ab67616d0000b2737254cbdd38715a0a822b577f']
+['Summertime Sadness - Sped Up', 'Summertime Sadness (Sped Up)', 'Lana Del Rey', 'https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV', 'https://i.scdn.co/image/ab67616d0000b273a8b0e2778ba0735358d45223']
+['Be The One', 'Be The One', 'Eli Brown', 'https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW', 'https://i.scdn.co/image/ab67616d0000b2734a45c48384d56af3a32b43c6']
+['Daddy Cool', 'Daddy Cool', 'LIZOT', 'https://open.spotify.com/track/50rcUhHimavzT1qq6QrgMG', 'https://i.scdn.co/image/ab67616d0000b273da8ce498bc7d441e6d841d25']
+['Nobody To Love - Radio Edit', 'Clubland 26', 'Various Artists', 'https://open.spotify.com/track/6PTwoCCzthLLmeRvNqEa5Q', 'https://i.scdn.co/image/ab67616d0000b27370a62b8e7f6075d344e066ba']
+['Vino Bandit', 'Vino Bandit', 'K Motionz', 'https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH', 'https://i.scdn.co/image/ab67616d0000b2730de6a4c1986548bee55f2ef8']
+['Amos Moses', 'Georgia Sunshine', 'Jerry Reed', 'https://open.spotify.com/track/7zVZF0OgDJkFJohnlKwEpa', 'https://i.scdn.co/image/ab67616d0000b2732f06de0d10c2083f442ac8c7']
+['School', 'Bleach', 'Nirvana', 'https://open.spotify.com/track/0EY1Z9UmZnYZyM7zHs6C0j', 'https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864']
+['Sound Of The Underground', 'Sound Of The Underground', 'Girls Aloud', 'https://open.spotify.com/track/0SKjqIViHaXWhmaKuJbMrq', 'https://i.scdn.co/image/ab67616d0000b273eea0874a385add93be75febf']
