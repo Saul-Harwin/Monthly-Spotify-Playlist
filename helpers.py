@@ -54,11 +54,12 @@ def add_songs_to_playlist(sp, trackIDs, playlist_name):
                 sp.playlist_add_items(playlist["id"], trackIDs, position=None)
             else:
                 sp.playlist_replace_items(playlist["id"], trackIDs) 
-            break
-        else:
-            print("ERROR: Playlist hasn't been created yet.")
+            print("Successfully added songs to playlist")
+            print("Songs:")
+            for i in trackIDs:
+                print(get_track_features(sp, i))
             return
-    print("Successfully added songs to playlist")
-    print("Songs:")
-    for i in trackIDs:
-        print(get_track_features(sp, i))
+        else:
+            continue
+    print("ERROR: Playlist hasn't been created yet.")
+    return
