@@ -21,6 +21,7 @@
    <code>nano Monthly-Spotify-Playlist/constants.py</code>
 2. Copy both the client_id and client_secret and paste them in the respected sections in the constants file
 3. Then add your spotify username to the username variable which can be found in the spotify app
+4. Finaly change the CACHE_PATH to be the path to desired location for the .cache file
 
 ## Run
 It is reccommended to run this program in a virtual environment.
