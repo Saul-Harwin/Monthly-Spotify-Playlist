@@ -3,7 +3,7 @@ SPOTIPY_CLIENT_SECRET=""
 USERNAME=""
 SPOTIPY_REDIRECT_URI="http://127.0.0.1:5000"
 SCOPE = "user-top-read, playlist-modify-private, playlist-modify-public"
-CACHE_PATH = f"/home/saul/Documents/Projects/{USERNAME}-Monthly-Spotify-Playlist/.cache"
+CACHE_PATH = "/home/saul/Documents/Projects/Monthly-Spotify-Playlist/.cache"
 MONTHS = {
     "1": "January",
     "2": "Febuary",
