@@ -12437,3 +12437,71 @@ Songs:
 ['Satisfaction', 'Satisfaction', 'David Guetta', 'https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo', 'https://i.scdn.co/image/ab67616d0000b273774f38d20ea492970bbd7ad9']
 ['Scar Tissue', 'Californication (Deluxe Edition)', 'Red Hot Chili Peppers', 'https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1', 'https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595']
 ['Connection', 'Elastica', 'Elastica', 'https://open.spotify.com/track/4OvXecGenX5ZtlldeQ4I4Y', 'https://i.scdn.co/image/ab67616d0000b273d1744cee7b14f1fb42cafe0c']
+
+
+2024-09-09 17:00:02.683114
+09
+September 24
+Playlist with the same name already exist. Skipping playlist creation.
+Successfully got track IDs
+Successfully added songs to playlist
+Songs:
+['Pool House', 'When We Were Friends', 'The Backseat Lovers', 'https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq', 'https://i.scdn.co/image/ab67616d0000b2738386795a636d72e74c958590']
+['Shout To The Top - USA Remix', 'Our Favourite Shop', 'The Style Council', 'https://open.spotify.com/track/0mF5QmsOJq5w3FqGMjycII', 'https://i.scdn.co/image/ab67616d0000b273115b41cd4d2dec5840fb9ecf']
+['MONEY ON THE DASH - SPED UP', 'MONEY ON THE DASH', 'Elley Duhé', 'https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN', 'https://i.scdn.co/image/ab67616d0000b273cd4563537bf6c2fcf28a9182']
+['Opposite of Adults', 'The Preview', 'Chiddy Bang', 'https://open.spotify.com/track/22wKQbMH8n7wZfso2VcLJL', 'https://i.scdn.co/image/ab67616d0000b273a6482b51bae0928bb3985885']
+['Static', 'Gemini Rights', 'Steve Lacy', 'https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem', 'https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee']
+["All Your'n", 'Country Squire', 'Tyler Childers', 'https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K', 'https://i.scdn.co/image/ab67616d0000b273d41fec800fa501c5bc623083']
+['About A Girl', 'Bleach', 'Nirvana', 'https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok', 'https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864']
+['Glycerine - Remastered', 'Sixteen Stone (Remastered)', 'Bush', 'https://open.spotify.com/track/5buITai6eMzU8rJonMEI6e', 'https://i.scdn.co/image/ab67616d0000b2731581237e4d580feafaed6bc0']
+["Jessie's Girl", 'Working Class Dog', 'Rick Springfield', 'https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH', 'https://i.scdn.co/image/ab67616d0000b273aa61ce1efabf12ee0c48e18f']
+["What's My Age Again?", 'Enema Of The State', 'blink-182', 'https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52', 'https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74']
+['Up Up & Away', "Man On The Moon: The End Of Day (Int'l Version)", 'Kid Cudi', 'https://open.spotify.com/track/5CGDrFkXmbdetIgUt77V9g', 'https://i.scdn.co/image/ab67616d0000b273713f297a7bdc1d48971062b2']
+["You're The Best Thing", 'Cafe Bleu', 'The Style Council', 'https://open.spotify.com/track/0Njh4xmjFcX3f8TO1ocdlb', 'https://i.scdn.co/image/ab67616d0000b273ba18602a3eb8726f37621a1e']
+['Big City Life', 'Big City Life', 'Luude', 'https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN', 'https://i.scdn.co/image/ab67616d0000b273cba8091b7b9bddf2b42afa4b']
+['Fluorescent Adolescent', 'Favourite Worst Nightmare', 'Arctic Monkeys', 'https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd', 'https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface']
+['These Words', 'These Words', 'Badger', 'https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz', 'https://i.scdn.co/image/ab67616d0000b27300f75805e619ec91836d28f9']
+['Big Jet Plane', 'Big Jet Plane', 'Restricted', 'https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O', 'https://i.scdn.co/image/ab67616d0000b27305da2b226cda948badddbf2e']
+['Uptown Folks', 'Honey Bones', 'DOPE LEMON', 'https://open.spotify.com/track/13ZpvzL10nw52uCDY13SkF', 'https://i.scdn.co/image/ab67616d0000b2736e5f26c11f97c7211fe5f4fb']
+['Seventeen Going Under', 'Seventeen Going Under (Deluxe)', 'Sam Fender', 'https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ', 'https://i.scdn.co/image/ab67616d0000b2735918af42c697829fd84de59f']
+['Stutter', 'Elastica', 'Elastica', 'https://open.spotify.com/track/6DqfGofHKoLSAVgEZt1eF6', 'https://i.scdn.co/image/ab67616d0000b273d1744cee7b14f1fb42cafe0c']
+['Everlong', 'The Colour And The Shape', 'Foo Fighters', 'https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk', 'https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b']
+['Alright (2015 Remaster)', "I Should Coco (20th Anniversary Collector's Edition)", 'Supergrass', 'https://open.spotify.com/track/05ajrG3EAcIe3j7NuqRV9B', 'https://i.scdn.co/image/ab67616d0000b2731d38769425fb82b894e4855e']
+['Sound Of The Underground', 'Sound Of The Underground', 'Girls Aloud', 'https://open.spotify.com/track/0SKjqIViHaXWhmaKuJbMrq', 'https://i.scdn.co/image/ab67616d0000b273eea0874a385add93be75febf']
+['Satisfaction', 'Satisfaction', 'David Guetta', 'https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo', 'https://i.scdn.co/image/ab67616d0000b273774f38d20ea492970bbd7ad9']
+['Scar Tissue', 'Californication (Deluxe Edition)', 'Red Hot Chili Peppers', 'https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1', 'https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595']
+['Connection', 'Elastica', 'Elastica', 'https://open.spotify.com/track/4OvXecGenX5ZtlldeQ4I4Y', 'https://i.scdn.co/image/ab67616d0000b273d1744cee7b14f1fb42cafe0c']
+
+
+2024-09-09 18:00:02.390136
+09
+September 24
+Playlist with the same name already exist. Skipping playlist creation.
+Successfully got track IDs
+Successfully added songs to playlist
+Songs:
+['Pool House', 'When We Were Friends', 'The Backseat Lovers', 'https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq', 'https://i.scdn.co/image/ab67616d0000b2738386795a636d72e74c958590']
+['Shout To The Top - USA Remix', 'Our Favourite Shop', 'The Style Council', 'https://open.spotify.com/track/0mF5QmsOJq5w3FqGMjycII', 'https://i.scdn.co/image/ab67616d0000b273115b41cd4d2dec5840fb9ecf']
+['MONEY ON THE DASH - SPED UP', 'MONEY ON THE DASH', 'Elley Duhé', 'https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN', 'https://i.scdn.co/image/ab67616d0000b273cd4563537bf6c2fcf28a9182']
+['Opposite of Adults', 'The Preview', 'Chiddy Bang', 'https://open.spotify.com/track/22wKQbMH8n7wZfso2VcLJL', 'https://i.scdn.co/image/ab67616d0000b273a6482b51bae0928bb3985885']
+['Static', 'Gemini Rights', 'Steve Lacy', 'https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem', 'https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee']
+["All Your'n", 'Country Squire', 'Tyler Childers', 'https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K', 'https://i.scdn.co/image/ab67616d0000b273d41fec800fa501c5bc623083']
+['About A Girl', 'Bleach', 'Nirvana', 'https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok', 'https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864']
+['Glycerine - Remastered', 'Sixteen Stone (Remastered)', 'Bush', 'https://open.spotify.com/track/5buITai6eMzU8rJonMEI6e', 'https://i.scdn.co/image/ab67616d0000b2731581237e4d580feafaed6bc0']
+["Jessie's Girl", 'Working Class Dog', 'Rick Springfield', 'https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH', 'https://i.scdn.co/image/ab67616d0000b273aa61ce1efabf12ee0c48e18f']
+["What's My Age Again?", 'Enema Of The State', 'blink-182', 'https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52', 'https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74']
+['Up Up & Away', "Man On The Moon: The End Of Day (Int'l Version)", 'Kid Cudi', 'https://open.spotify.com/track/5CGDrFkXmbdetIgUt77V9g', 'https://i.scdn.co/image/ab67616d0000b273713f297a7bdc1d48971062b2']
+["You're The Best Thing", 'Cafe Bleu', 'The Style Council', 'https://open.spotify.com/track/0Njh4xmjFcX3f8TO1ocdlb', 'https://i.scdn.co/image/ab67616d0000b273ba18602a3eb8726f37621a1e']
+['Big City Life', 'Big City Life', 'Luude', 'https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN', 'https://i.scdn.co/image/ab67616d0000b273cba8091b7b9bddf2b42afa4b']
+['Fluorescent Adolescent', 'Favourite Worst Nightmare', 'Arctic Monkeys', 'https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd', 'https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface']
+['These Words', 'These Words', 'Badger', 'https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz', 'https://i.scdn.co/image/ab67616d0000b27300f75805e619ec91836d28f9']
+['Big Jet Plane', 'Big Jet Plane', 'Restricted', 'https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O', 'https://i.scdn.co/image/ab67616d0000b27305da2b226cda948badddbf2e']
+['Uptown Folks', 'Honey Bones', 'DOPE LEMON', 'https://open.spotify.com/track/13ZpvzL10nw52uCDY13SkF', 'https://i.scdn.co/image/ab67616d0000b2736e5f26c11f97c7211fe5f4fb']
+['Seventeen Going Under', 'Seventeen Going Under (Deluxe)', 'Sam Fender', 'https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ', 'https://i.scdn.co/image/ab67616d0000b2735918af42c697829fd84de59f']
+['Stutter', 'Elastica', 'Elastica', 'https://open.spotify.com/track/6DqfGofHKoLSAVgEZt1eF6', 'https://i.scdn.co/image/ab67616d0000b273d1744cee7b14f1fb42cafe0c']
+['Everlong', 'The Colour And The Shape', 'Foo Fighters', 'https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk', 'https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b']
+['Alright (2015 Remaster)', "I Should Coco (20th Anniversary Collector's Edition)", 'Supergrass', 'https://open.spotify.com/track/05ajrG3EAcIe3j7NuqRV9B', 'https://i.scdn.co/image/ab67616d0000b2731d38769425fb82b894e4855e']
+['Sound Of The Underground', 'Sound Of The Underground', 'Girls Aloud', 'https://open.spotify.com/track/0SKjqIViHaXWhmaKuJbMrq', 'https://i.scdn.co/image/ab67616d0000b273eea0874a385add93be75febf']
+['Satisfaction', 'Satisfaction', 'David Guetta', 'https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo', 'https://i.scdn.co/image/ab67616d0000b273774f38d20ea492970bbd7ad9']
+['Scar Tissue', 'Californication (Deluxe Edition)', 'Red Hot Chili Peppers', 'https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1', 'https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595']
+['Connection', 'Elastica', 'Elastica', 'https://open.spotify.com/track/4OvXecGenX5ZtlldeQ4I4Y', 'https://i.scdn.co/image/ab67616d0000b273d1744cee7b14f1fb42cafe0c']
