@@ -1,5 +1,6 @@
 from datetime import date, datetime
 from constants import MONTHS, USERNAME
+import smtplib, ssl
 
 
 def get_date(MONTHS):
@@ -26,11 +27,10 @@ def get_track_features(sp, id):
     track_info = [name, album, artist, spotify_url, album_cover]
     return track_info
 
-def create_playlist(sp, MONTHS):
+def create_monthly_playlist(sp, MONTHS):
     date = get_date(MONTHS)
     print(date)
     playlist_name = f"Songs of {date}"
-
     playlists = sp.user_playlists(USERNAME)
 
     for playlist in playlists["items"]:
@@ -41,9 +41,30 @@ def create_playlist(sp, MONTHS):
         else:
             continue
 
-    sp.user_playlist_create(USERNAME, playlist_name, public=True, collaborative=False, description=f"This is my playlist of top songs this month automatically populated by my Rpi. Last Updated: {datetime.now().day}/{datetime.now().month}/{datetime.now().year} at {datetime.now().hour}:{datetime.now().minute}:{datetime.now().second}")
-    print(f"Successfully created playlist ({playlist_name})")
-    return playlist_name
+    if len(playlists["items"]) > 0:
+        sp.user_playlist_create(USERNAME, playlist_name, public=True, collaborative=False, description=f"This is my playlist of top songs this month automatically populated by my Rpi. Last Updated: {datetime.now().day}/{datetime.now().month}/{datetime.now().year} at {datetime.now().hour}:{datetime.now().minute}:{datetime.now().second}")
+        print(f"Successfully created playlist ({playlist_name})")
+        return playlist_name
+    else:
+        return "ERROR"
+
+def create_long_playlist(sp, playlist_name):
+    playlists = sp.user_playlists(USERNAME)
+
+    for playlist in playlists["items"]:
+        if playlist["name"] == playlist_name:
+            sp.playlist_change_details(playlist_id=playlist["id"], description=f"This is my playlist of top songs this month automatically populated by my Rpi. Last Updated: {datetime.now().day}/{datetime.now().month}/{datetime.now().year} at {datetime.now().hour}:{datetime.now().minute}:{datetime.now().second}")
+            print("Playlist with the same name already exist. Skipping playlist creation.")
+            return playlist_name
+        else:
+            continue
+
+    if len(playlists["items"]) > 0:
+        sp.user_playlist_create(USERNAME, playlist_name, public=True, collaborative=False, description=f"This is my playlist of top songs this month automatically populated by my Rpi. Last Updated: {datetime.now().day}/{datetime.now().month}/{datetime.now().year} at {datetime.now().hour}:{datetime.now().minute}:{datetime.now().second}")
+        print(f"Successfully created playlist ({playlist_name})")
+        return playlist_name
+    else:
+        return "ERROR"
 
 def add_songs_to_playlist(sp, trackIDs, playlist_name):
     playlists = sp.user_playlists(USERNAME)
@@ -63,3 +84,23 @@ def add_songs_to_playlist(sp, trackIDs, playlist_name):
             continue
     print("ERROR: Playlist hasn't been created yet.")
     return
+    
+def send_email(sp, tracks):
+    print(tracks)
+    sp.audio_features(tracks)
+    
+    port = 465  # For SSL
+    smtp_server = "smtp.gmail.com"
+    sender_email = "thisismytestemail71@gmail.com"  # Enter your address
+    receiver_email = "saulharwin@gmail.com"  # Enter receiver address
+    password = "TestyTestyTesty"
+    message = """\
+    Subject: Hi there
+
+    This message is sent from Python."""
+
+    context = ssl.create_default_context()
+    with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
+        server.login(sender_email, password)
+        server.sendmail(sender_email, receiver_email, message)
+        
